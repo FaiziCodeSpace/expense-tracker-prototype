@@ -22,6 +22,7 @@
 
 ---
 ### 🗂️ Project Structure
+```
 expense-tracker-prototype/
 ├── public/
 ├── views/
@@ -29,6 +30,7 @@ expense-tracker-prototype/
 ├── app.js | index.js
 ├── package.json
 └── README.md
+```
 
 ### 📦 Dependencies
 • express
